@@ -8,6 +8,7 @@ Hi there 👋 Welcome to my github 🤩 </br>
 - 📚 My research focuses on application of deep learning methods to forecasting and investigating solar activities and space weather! 
 - 📬 How to reach me: snjhyn@khu.ac.kr </br>
 - 📑 Check my works: [ORCID](https://orcid.org/0000-0003-2678-5718) or [Google scholar](https://scholar.google.com/citations?user=GnaMMuUAAAAJ&hl=ko) </br>
+
 Thank you for visiting my place! 🥰
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
