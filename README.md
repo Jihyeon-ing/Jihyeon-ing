@@ -2,10 +2,10 @@
 
 Hi there 👋 Welcome to my github 🤩 </br>
 
-🎓 Ph.D. in Solar Physics </br>
-🌞 Studying Sun and space weather </br>
-🖥️ Interested in deep learning with Tensorflow/keras and Pytorch </br>
-📚 My research focuses on application of deep learning methods to forecasting and investigating solar activities and space weather! </br>
+- 🎓 Ph.D. in Solar Physics </br>
+- 🌞 Studying Sun and space weather </br>
+- 🖥️ Interested in deep learning with Tensorflow/keras and Pytorch </br>
+- 📚 My research focuses on application of deep learning methods to forecasting and investigating solar activities and space weather! </br>
 
 -----------------------------
 📬 How to reach me: snjhyn@khu.ac.kr </br>
