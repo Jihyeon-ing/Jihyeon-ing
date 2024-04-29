@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&&fontAlignY=40&desc=I'm%20Jihyeon%20Son)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=80&&fontAlignY=40&desc=I'm%20Jihyeon%20Son%20:\))
 
 Hi there 👋 Welcome to my github 🤩 </br>
 
