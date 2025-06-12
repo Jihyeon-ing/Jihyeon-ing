@@ -6,7 +6,7 @@ Hi there 👋 Welcome to my github 🤩 </br>
 - 🌞 Studying Sun and space weather 
 - 🖥️ Interested in deep learning with Tensorflow/keras and Pytorch 
 - 📚 My research focuses on application of deep learning methods to forecast and investigate solar activities and space weather! 
-- 📬 How to reach me: snjhyn@khu.ac.kr </br>
+- 📬 How to reach me: sonjh@kasi.re.kr </br>
 - 📑 Check my works: [ORCID](https://orcid.org/0000-0003-2678-5718) or [Google scholar](https://scholar.google.com/citations?user=GnaMMuUAAAAJ&hl=ko) </br>
 
 You can find more detail about me in my [personal website](https://jihyeon-son.github.io/) ! 🥰 </br>
